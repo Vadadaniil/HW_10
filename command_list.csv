@@ -1,0 +1,161 @@
+    1  cd GIT
+    2  clean
+    3  git config --global user.name "Vadadaniil"
+    4  git config --global user.name "Vadadaniil"
+    5  clear
+    6  dir
+    7  touch
+    8  clear
+    9  help
+   10  clean
+   11  clear
+   12  man
+   13  man(command)
+   14  clear
+   15  cls
+   16  clear
+   17  help
+   18  clear
+   19  man ls
+   20  help ls
+   21  help cd
+   22  man cd
+   23  clear
+   24  man ls
+   25  help ls
+   26  help dir
+   27  clear
+   28  Q
+   29  cd
+   30  vim
+   31  dir
+   32  type
+   33  cd
+   34  clear
+   35  cls
+   36  clear
+   37  dir
+   38  clear
+   39  time
+   40  cls
+   41  color
+   42  ls
+   43  clear
+   44  ls
+   45  clear
+   46  gh repo clone Vadadaniil/HW_10
+   47  cit clo gh repo clone Vadadaniil/HW_10
+   48  git clone [ gh repo clone Vadadaniil/HW_10]
+   49  clean
+   50  clear
+   51  git clone https://github.com/Vadadaniil/HW_10.git
+   52  cd
+   53  git status
+   54  cd HW_10
+   55  type nul text_ignore.txt
+   56  type nul text_ignore.txt
+   57  git status
+   58  touchtext_ignore.txt
+   59  touch touchtext_ignore.txt
+   60  git status
+   61  git add touchtext_ignore.txt
+   62  git status
+   63  git comit -m"New file" 
+   64  git commit -m "New file"
+   65  git commit -m "New"
+   66  git status
+   67  git log
+   68  touch text_ignore.txt
+   69  del touchtext_ignore
+   70  nano .gitignore
+   71  git status
+   72  git add
+   73  git log
+   74  git commit
+   75  git log
+   76  git status
+   77  nano .gitignore
+   78  git status
+   79  git add
+   80  git commit
+   81  touch main_test.txt
+   82  git add
+   83  git commit -m "Task2"
+   84  commit
+   85  clear
+   86  cd
+   87  cd
+   88  cd ..
+   89  ls
+   90  ls
+   91  cd desktop.ini 
+   92  cd DESKTOP
+   93  cd Desktop
+   94  cd desktop
+   95  cd desktop.ini 
+   96  cd ..
+   97  clear
+   98  cd GIT
+   99  cd Desktop
+  100  cd user
+  101  cd Users
+  102  cd Privat
+  103  cd ..
+  104  cd../GIT
+  105  cd ..\GIT
+  106  cd .
+  107  cd ".."
+  108  cd "."
+  109  cd C:\Users\Privat\Desktop
+  110  cd \Users\Privat\Desktop
+  111  git clone https://github.com/Vadadaniil/HW_10.git
+  112  touch text_ignore.txt
+  113  git status
+  114  git commit -m "1.3"
+  115  git commit -m"1.3"
+  116  nano .gitignore
+  117  git status
+  118  git add
+  119  git commit -m"Task1"
+  120  git add .
+  121  git commit -m "Task1"
+  122  touch main_test.txt
+  123  dit add.
+  124  git add .
+  125  git commit -m "Первый коммит"
+  126  git log
+  127  git log "message"
+  128  git log --oneline
+  129  git log --graph
+  130  git add .
+  131  git commit -m "New commit"
+  132  git log --oneline
+  133   git log --graph
+  134  git log
+  135  git log --stat
+  136  git schow --name-only
+  137  git log --oneline main_test.txt
+  138  git add main_test.txt
+  139  git commit -m "new file"
+  140  git log
+  141  git log --all
+  142  git log --all:
+  143  git pull
+  144  git checkout -b develop
+  145  touch develop_test.txt
+  146  git add .
+  147  git commit -m "Создан файл develop_test.txt"
+  148  git config --global user.name "Vadadaniil"
+  149  git config --global user.email "Olena.Datskovska@gmail.com"
+  150  git commit -m "Создан файл develop_test.txt"
+  151  git log --all
+  152  echo "Just a small change" >> develop_test.txt
+  153  git status
+  154  git add .
+  155  git commit -m "Добавлена строка ветка 2 файл develop_test.txt"
+  156  git checkout main
+  157  git merge develop
+  158  git log
+  159  cit commit -m "Объединение веток 1 и 2"
+  160  git commit -m "Объединение веток 1 и 2"
+  161  history > command_list.csv
